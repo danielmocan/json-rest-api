@@ -16,6 +16,16 @@ npm start
 server will listen for requests on port 3000
 
 
+### Routes
+
+```
+GET    /posts
+GET    /posts/1
+POST   /posts
+PUT    /posts/1
+DELETE /posts/1
+```
+
 **To Do:**
   * make code cleaner to read
   * move data to a separate file
