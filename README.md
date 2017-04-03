@@ -1,7 +1,7 @@
 # json-rest-api
 Fake json rest API with node
 
-**WIP - Work in progress**
+**WIP - Work in progress ( but in workable conditions ) **
 
 ## Usage
 
@@ -25,6 +25,10 @@ POST   /posts
 PUT    /posts/1
 DELETE /posts/1
 ```
+### Adding Data
+
+You will find the in dataInteractions.js
+a variable called db ( its on my todo to move it to a separate file )
 
 **To Do:**
   * make code cleaner to read
